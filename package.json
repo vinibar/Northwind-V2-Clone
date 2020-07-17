@@ -1,0 +1,16 @@
+{
+  "name": "northwind-v2-clone",
+  "version": "1.0.0",
+  "description": "Northwind V2 Clone.",
+  "repository": "https://github.com/vinibar/Northwind-V2-Clone.git",
+  "license": "GNU GENERAL PUBLIC LICENSE v3.0",
+  "private": false,
+  "dependencies": {
+    "@sap/cds": "^3",
+    "express": "^4"
+  },
+  "scripts": {
+    "start": "npx cds run",
+    "watch": "npx cds watch"
+  }
+}
